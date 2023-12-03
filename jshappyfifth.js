@@ -26,7 +26,7 @@ const songs = [
   {
     title: "Perfect by Ed Sheeran",
     message: "will never forget the day i played the guitar for you. one of our most memorable moments, and something that i will cherish and even tell our kids about it. i am glad you are the woman i found who is much more stronger than before",
-    image: "fifth.jpg",
+    image: "fifth",
     link: "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v?si=9a6037537fbc4555"
   },
   {
