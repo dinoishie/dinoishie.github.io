@@ -31,7 +31,7 @@ const songs = [
   },
   {
     title: "my kry.",
-    message: "five songs for our fifth month. but five songs are not enough so here's the real playlist.",
+    message: "five songs for our fifth month. but five songs are not enough so here's the real playlist. just know that i love you more than anything, and i'd never want us to be separated ever. let's make this work until the end, because my love for you have no end.",
     image: "last.JPG",
     link: "https://open.spotify.com/playlist/109aLpuuXwmfZiXE3fSlxp?si=05435878fe8e4fc3"
   },
